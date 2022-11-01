@@ -1,0 +1,18 @@
+--------------------------------
+          <shop name>
+     <shop address>
+     <shop address>
+     <shop data>
+     <shop contact>
+--------------------------------
+24-07-2022 09:13:45
+
+Varied                   3435.00
+    3435.00 X 1 = 3435.00
+--------------------------------
+TOTAL                    3435.00
+Paid                     3435.00
+Change                      0.00
+IVA included
+
+   <footer text>
